@@ -1,0 +1,9 @@
+Index: src/README.md
+===================================================================
+diff --git a/src/README.md b/src/README.md
+deleted file mode 100644
+--- a/src/README.md	(revision 0c582ca3a5e0397768606c3c4f5889ed0cf89a44)
++++ /dev/null	(revision 0c582ca3a5e0397768606c3c4f5889ed0cf89a44)
+@@ -1,1 +0,0 @@
+-# TestIntelij
+\ No newline at end of file
